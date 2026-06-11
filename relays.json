@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "updated": "2026-06-11",
+  "relays": [
+    "wss://relay.primal.net",
+    "wss://nos.lol",
+    "wss://nostr.oxtr.dev",
+    "wss://relay.damus.io",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.fmt.wiz.biz"
+  ]
+}
