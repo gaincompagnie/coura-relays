@@ -4,10 +4,9 @@
   "relays": [
     "wss://relay.primal.net",
     "wss://nos.lol",
-    "wss://nostr.oxtr.dev",
     "wss://relay.damus.io",
-    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom",
     "wss://relay.snort.social",
-    "wss://nostr.mom"
+    "wss://nostr.oxtr.dev"
   ]
 }
