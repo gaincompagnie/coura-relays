@@ -1,0 +1,46 @@
+{
+  "kind": 10002,
+  "created_at": 1783173084,
+  "tags": [
+    [
+      "r",
+      "wss://relay.primal.net"
+    ],
+    [
+      "r",
+      "wss://nos.lol"
+    ],
+    [
+      "r",
+      "wss://nostr.oxtr.dev"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io"
+    ],
+    [
+      "r",
+      "wss://nostr.bitcoiner.social"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social"
+    ],
+    [
+      "r",
+      "wss://purplepag.es"
+    ],
+    [
+      "r",
+      "wss://relay.current.xyz"
+    ],
+    [
+      "r",
+      "wss://nostr.mom"
+    ]
+  ],
+  "content": "{\"relays\":[\"wss://relay.primal.net\",\"wss://nos.lol\",\"wss://nostr.oxtr.dev\",\"wss://relay.damus.io\",\"wss://nostr.bitcoiner.social\",\"wss://relay.snort.social\",\"wss://purplepag.es\",\"wss://relay.current.xyz\",\"wss://nostr.mom\"]}",
+  "pubkey": "dc72f26e48c2d4425449084962bc9eaefe407e8ffba09c6d78f83edd2406fc8b",
+  "id": "36ecc69f0beb09e408b6261800c5b510c824703b15f5fa1aae3659384049c5ac",
+  "sig": "4b1d9efcb46b28b1010499089ea663f353df130b993cc69ba5500ae29c8c5045ebd7e39db31636a856d24d1014992d61a953bfff3dd5269676d9a8f417aa3519"
+}
