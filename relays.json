@@ -1,13 +1,12 @@
 {
   "version": 1,
-  "updated": "2026-06-11",
+  "updated": "2026-07-04",
   "relays": [
     "wss://relay.primal.net",
     "wss://nos.lol",
     "wss://nostr.oxtr.dev",
     "wss://relay.damus.io",
     "wss://nostr.bitcoiner.social",
-    "wss://relay.snort.social",
-    "wss://relay.nostr.band"
+    "wss://relay.snort.social"
   ]
 }
